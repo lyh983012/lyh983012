@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Hi there~
 
-<!--
-**lyh983012/lyh983012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Yihan lin, a researcher from China.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🏫 I'm a PHD student in  CBICR, Tsinghua University
+- 🏫 I' also working as an intern in Lynxi Co. 
+- 📫 How to contact me: 532109881@qq.com
+- 🔭 Research Interest: Event Camera, Coding Theory, Spikin Neural Networks, Low-level Vision Algorithm
 -->
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lyh983012&show_icons=true">](https://metrics.lecoq.io/lyh983012?template=classic)
+
+- ✏️ OS: Ubuntu + MacOS + Windows (<=10)
+- ⚒️ Langs: Python, Java, C++, Matlab
