@@ -17,4 +17,4 @@ Hi, I'm Yihan lin, a researcher from China.
 - ✏️ OS: Ubuntu + MacOS + Windows (<=10)
 - ⚒️ Langs: Python, Java, C++, Matlab
 
-<img align="left" width="50%" src="./test.gif" alt="show" />
+<img align="left" width="20%" src="./test.gif" alt="show" />
