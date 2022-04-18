@@ -1,5 +1,8 @@
 ### 👋 Hi there~
 
+
+[<img align="centre" width="100%" src="https://github-readme-stats.vercel.app/api?username=lyh983012&show_icons=true">](https://metrics.lecoq.io/lyh983012?template=classic)
+
 Hi, I'm Yihan lin, a researcher from China.
 
 - 🏫 I'm a PHD student in  CBICR, Tsinghua University
@@ -8,7 +11,6 @@ Hi, I'm Yihan lin, a researcher from China.
 - 🔭 Research Interest: Event Camera, Coding Theory, Spikin Neural Networks, Low-level Vision Algorithm
 -->
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lyh983012&show_icons=true">](https://metrics.lecoq.io/lyh983012?template=classic)
 
 - ✏️ OS: Ubuntu + MacOS + Windows (<=10)
 - ⚒️ Langs: Python, Java, C++, Matlab
