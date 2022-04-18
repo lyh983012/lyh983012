@@ -18,5 +18,5 @@ Hi, I'm Yihan lin, a researcher from China.
 - ⚒️ Langs: Python, Java, C++, Matlab
 
 <img align="left" width="20%" src="./test.gif" alt="show" />
-<img align="centre" width="20%" src="./test2.gif" alt="show" />
 <img align="centre" width="20%" src="./test4.gif" alt="show" />
+<!-- img align="centre" width="20%" src="./test2.gif" alt="show" --/>
