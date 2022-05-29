@@ -10,13 +10,13 @@ Hi, I'm Yihan lin, a researcher from China.
 - 🏫 I'm a PHD student in  CBICR, Tsinghua University
 - 🏫 I' also working as an intern in Lynxi Co. 
 - 📫 How to contact me: 532109881@qq.com
-- 🔭 Research Interest: Event Camera, Coding Theory, Spikin Neural Networks, Low-level Vision Algorithm
+- 🔭 Research Interest: Event Camera, Coding Theory, Spiking Neural Networks, Low-level Vision Algorithm
 -->
 
 
 - ✏️ OS: Ubuntu + MacOS + Windows (<=10)
 - ⚒️ Langs: Python, Java, C++, Matlab
 
-<img align="left" width="20%" src="./test.gif" alt="show" />
-<img align="centre" width="20%" src="./test4.gif" alt="show" />
+<img align="left" width="40%" src="./test.gif" alt="show" />
+<img align="centre" width="40%" src="./test4.gif" alt="show" />
 <!-- img align="centre" width="20%" src="./test2.gif" alt="show" --/>
