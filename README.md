@@ -13,6 +13,12 @@ Hi, I'm Yihan lin, a researcher from China.
 - ✏️ OS: Ubuntu + MacOS + Windows
 - ⚒️ Langs: Python, Java, C++, Matlab
 
-<img align="left" width="40%" src="./test.gif" alt="show" />
-<img align="centre" width="40%" src="./test4.gif" alt="show" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img align="left" width="10%" src="./test.gif" alt="show" />
+<img align="centre" width="10%" src="./test4.gif" alt="show" />
 <!-- img align="centre" width="20%" src="./test2.gif" alt="show" --/>
