@@ -19,6 +19,6 @@ Hi, I'm Yihan lin, a researcher from China.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img align="left" width="10%" src="./test.gif" alt="show" />
-<img align="centre" width="10%" src="./test4.gif" alt="show" />
+<!--img align="left" width="10%" src="./test.gif" alt="show" --/>
+<!--img align="centre" width="10%" src="./test4.gif" alt="show" --/>
 <!-- img align="centre" width="20%" src="./test2.gif" alt="show" --/>
