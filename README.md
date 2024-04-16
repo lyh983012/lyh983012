@@ -23,4 +23,4 @@ Hi, I'm Yihan lin, a researcher from China.
 <!--img align="centre" width="10%" src="./test4.gif" alt="show" --/>
 <!-- img align="centre" width="20%" src="./test2.gif" alt="show" --/>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lyh983012" /> </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=lyh983012)](https://github.com/ryo-ma/github-profile-trophy)
