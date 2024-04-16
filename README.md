@@ -20,7 +20,7 @@ Hi, I'm Yihan lin, a researcher from China.
 </picture>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lyh983012&row=1&column=6)](https://github-profile-trophy.vercel.app/?username=lyh983012)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lyh983012&row=1&column=6&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=lyh983012)
 
 <!--img align="left" width="10%" src="./test.gif" alt="show" --/>
 <!--img align="centre" width="10%" src="./test4.gif" alt="show" --/>
