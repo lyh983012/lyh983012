@@ -19,8 +19,9 @@ Hi, I'm Yihan lin, a researcher from China.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lyh983012/lyh983012/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lyh983012)](https://github-profile-trophy.vercel.app/?username=lyh983012)
+
 <!--img align="left" width="10%" src="./test.gif" alt="show" --/>
 <!--img align="centre" width="10%" src="./test4.gif" alt="show" --/>
 <!-- img align="centre" width="20%" src="./test2.gif" alt="show" --/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lyh983012)](https://github-profile-trophy.vercel.app/?username=lyh983012)
