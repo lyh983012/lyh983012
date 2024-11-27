@@ -12,7 +12,7 @@ Hi, I'm Yihan lin, a researcher from China.
 - ✏️ OS: Ubuntu + MacOS + Windows
 - ⚒️ Langs: Python, Java, C++, Matlab
 
-- Currently working on [TianMouCV Project](https://github.com/Tianmouc/tianmoucv)
+- Currently working on [TianMouCV Project](https://github.com/Tianmouc/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lyh983012/lyh983012/output/github-contribution-grid-snake-dark.svg">
