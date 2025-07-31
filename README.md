@@ -4,7 +4,7 @@ Hi, I'm Yihan lin, a researcher from China.
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lyh983012&show_icons=true">](https://metrics.lecoq.io/lyh983012?template=classic)
 
-- 🏫 I'm a PHD candidate in  CBICR, Tsinghua University
+- 🏫 I'm now a TTAP @ XMU
 - 📫 How to contact me: 532109881@qq.com
 - 🔭 Research Interest: Brain-inspired Vision Sensors, AI-ISP, SNNs, Low-level Vision Algorithm
 -->
